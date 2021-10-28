@@ -1,5 +1,10 @@
-import Link from "next/link";
+import NavTop from "../components";
 
 export default function IndexPage() {
-  return <div>Hello World. </div>;
+  return (
+    <>
+      <NavTop />
+      <h2> Welcome! </h2>
+    </>
+  );
 }
