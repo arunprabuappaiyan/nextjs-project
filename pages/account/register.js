@@ -1,10 +1,12 @@
 import NavTop from "../../components";
+import BackPage from "../../components/Back";
 
 export default function () {
   return (
     <>
       <NavTop />
-      <h2> User </h2>
+      <BackPage />
+      <h2> Register Here </h2>
     </>
   );
 }

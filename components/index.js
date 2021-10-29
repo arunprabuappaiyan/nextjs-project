@@ -12,7 +12,7 @@ export default function NavTop() {
         </NavItem>
         <NavItem>
           <Link href="/category">
-            <a active>items</a>
+            <a active>Categories</a>
           </Link>
         </NavItem>
         <NavItem>
